@@ -7,4 +7,8 @@
 /build
 /captures
 .externalNativeBuild
-/app/src/androidTest/java/com/akshaybosamiya/demoespresso
+/app/src/androidTest/java/com/akshaybosamiya/demoespresso/basictest
+/app/src/androidTest/java/com/akshaybosamiya/demoespresso/custommatcher
+/app/src/androidTest/java/com/akshaybosamiya/demoespresso/idlingresource
+/app/src/androidTest/java/com/akshaybosamiya/demoespresso/intent
+
